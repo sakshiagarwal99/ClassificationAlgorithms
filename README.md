@@ -47,7 +47,7 @@ when predicted by the algorithm.
    > Mostly used for decision making tasks. (eg: robotics)
    > Reinforcement learning is a type of Semi-supervised learning where you are giving the model some human guidance but also allowing it to learn from its own.
 
- ![Type of Learning: Select Learning Mode based on Application!](https://www.google.com/search?rlz=1C5CHFA_enUS1021US1021&q=supervised+and+unsupervised+learning+venn&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjYjKiSj8yAAxXmkYkEHU8DDrcQ0pQJegQIDRAB&biw=1440&bih=789&dpr=2#imgrc=zAhqOktv09g_hM)
+ ![Type of Learning: Select Learning Mode based on Application](https://en.wikipedia.org/wiki/Supervised_learning#/media/File:Task-guidance.png)
 
 ### 2. *_Number of Features_* :
 
