@@ -47,9 +47,9 @@ when predicted by the algorithm.
    > Mostly used for decision making tasks. (eg: robotics)
    > Reinforcement learning is a type of Semi-supervised learning where you are giving the model some human guidance but also allowing it to learn from its own.
 
-![Type of Learning: Select Learning Mode based on Application!](https://en.wikipedia.org/wiki/Unsupervised_learning#/media/File:Task-guidance.png)
+ ![Type of Learning: Select Learning Mode based on Application!](https://www.google.com/search?rlz=1C5CHFA_enUS1021US1021&q=supervised+and+unsupervised+learning+venn&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjYjKiSj8yAAxXmkYkEHU8DDrcQ0pQJegQIDRAB&biw=1440&bih=789&dpr=2#imgrc=zAhqOktv09g_hM)
 
-### 2. *_Number of Features_*:
+### 2. *_Number of Features_* :
 
 > How many variables do you have?(age, height,…)
 
@@ -58,14 +58,14 @@ when predicted by the algorithm.
 > 3. Point to note: Can you reduce the number of features to simplify your model?(Feature Selection)
 > 4. Some features have more predictive value than others - example if you want to predict tomorrow’s weather - an important feature to take in would be today’s weather and not something like what you ate for cereal today :)
 
-### 3. *_Linearity_*
+### 3. *_Linearity_* :
     
 > Is your data linear?
     
 > 1. Linear: Consider a Support Vector Machine.
 > 2. Non Linear: Consider a Decision Tree.
 
-### 4. *_Training Time_*:
+### 4. *_Training Time_* :
 
 > How much data do you have, and how fast is your computer?
 
@@ -73,7 +73,7 @@ when predicted by the algorithm.
 > 2. Slower Training: Consider a random forest.
 > 3. More training = more accuracy
 
-### 5. *_#Of Parameters_* (parameters = model specs. #iterations, error, etc):
+### 5. *_#Of Parameters_* (parameters = model specs. #iterations, error, etc) :
     
 > How much flexibility do you want in your training?
     
